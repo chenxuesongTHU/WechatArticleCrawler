@@ -1,4 +1,4 @@
-# WechatArticleCrawler
+# WechatArticleCrawler 微信公众号文章爬虫
 
 **通过搜狗搜索对微信公众号文章爬取**
 
