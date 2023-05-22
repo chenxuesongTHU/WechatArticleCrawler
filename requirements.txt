@@ -1,5 +1,5 @@
 keyboard==0.13.5
-requests==2.20.0
+requests==2.31.0
 selenium==3.141.0
 beautifulsoup4==4.9.1
 Pillow==7.2.0
